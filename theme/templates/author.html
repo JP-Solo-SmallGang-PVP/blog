@@ -1,5 +1,7 @@
 {% extends "index.html" %}
-{% block title %}{{ SITENAME }} - {{ author }}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ author }}{% endblock title %}
+{% block og_description %}Author - {{ author }}{% endblock og_description %}
+{% block twitter_description %}Author - {{ author }}{% endblock twitter_description %}
 {% block content %}
 <h2>Articles by {{ author }}</h2>
 {% endblock content %}

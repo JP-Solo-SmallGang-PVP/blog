@@ -1,2 +1,4 @@
 {% extends "index.html" %}
-{% block title %}{{ SITENAME }} - {{ tag }}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ tag }}{% endblock title %}
+{% block og_description %}Tag - {{ tag }}{% endblock og_description %}
+{% block twitter_description %}Tag - {{ tag }}{% endblock twitter_description %}
