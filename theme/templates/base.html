@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+	{% block head %}
+	<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+	<meta charset="utf-8" />
+    <meta name="author" content="{{ AUTHOR }}">
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/franticworld.css" type="text/css" />
+	<link href="{{ SITEURL }}/theme/css/pygments.css" rel="stylesheet">
+
+	<!-- Feed -->
+	{% if FEED_ALL_ATOM %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+	{% endif %}
+	{% if FEED_ALL_RSS %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+	{% endif %}
+	{% if FEED_ATOM %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+	{% endif %}
+	{% if FEED_RSS %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+	{% endif %}
+	{% if CATEGORY_FEED_ATOM and category %}
+		<link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+	{% endif %}
+	{% if CATEGORY_FEED_RSS and category %}
+		<link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+	{% endif %}
+	{% if TAG_FEED_ATOM and tag %}
+		<link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+	{% endif %}
+	{% if TAG_FEED_RSS and tag %}
+		<link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+	{% endif %}
+
+	{% endblock head %}
+
+	{% block opengraph %}
+    {% for LOC in LOCALE %}
+      <meta property="og:locale" content="{{ LOC }}" />
+    {% endfor %}
+    <meta property="og:site_name" content="{{ SITENAME }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ SITENAME }}" />
+    <meta property="og:description" content="{{ SITESUBTITLE|default('View the blog.') }}" />
+    <meta property="og:url" content="{{ SITEURL }}" />
+    <meta name="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.jpg">
+  {% endblock opengraph %}
+
+  {% block twitter_card %}
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@{{ link|replace('http://', 'https://')|replace('https://twitter.com/', '') }}">
+	<meta name="twitter:title" content="{{ SITENAME }}">
+	<meta name="twitter:description" content="{{ SITESUBTITLE|default('View the blog.') }}">
+	<meta name="twitter:url" content="{{ SITEURL }}">
+    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.jpg">
+  {% endblock twitter_card %}
+
+  <link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON }}" type="{{ FAVICON_TYPE }}" />
+</head>
+<body background="{{ SITEURL }}/theme/img/pattern.png">		
+	<div class="content">
+		<div class="nav-banner">
+			<a href="{{ SITEURL }}">{{ SITENAME }}</a>
+		</div>
+	{% block content %}
+	{% endblock content %}
+
+	<footer id="contentinfo" class="body">
+		<address id="about" class="vcard body">
+		Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+		which takes great advantage of <a href="http://python.org">Python</a>,
+		Theme by <a href="http://frantic1048.com/">Frantic1048</a>.
+		</address><!-- /#about -->
+	</footer><!-- /#contentinfo -->
+
+	</div><!-- /.content -->
+
+	<div class="sidebar">
+	{% include 'sidebar.html' %}
+	</div>
+
+	<script>
+	  var links = document.links;
+	  for (var i = 0; i < links.length; i++) {
+		if (links[i].hostname != window.location.hostname) {
+		  links[i].target = '_blank';
+		}
+	  }
+  	</script>
+</body>
+</html>

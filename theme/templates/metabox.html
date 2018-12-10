@@ -1,0 +1,14 @@
+<div class="metabox">
+    <p class="metaday">{{ article.date|strftime('%j') }}</p>
+    <p class="metayear">{{ article.date|strftime('%Y') }}</p>
+    {% if not article.category == 'misc' %}
+        <p class="metacategory">{{ article.category }}</p>
+    {% endif %}
+    <p>
+        <li>
+            {% for translation in article.translations %}
+                <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+            {% endfor %}
+        <li>
+    </p>
+</div>
