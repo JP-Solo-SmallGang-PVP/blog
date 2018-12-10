@@ -20,7 +20,7 @@ If you are interested, please come and visit [Discord](https://discord.gg/FcYrc4
 </p>
 
 ## [zKillboard](https://zkillboard.com/character/95235307/)
-## [Twitch](https://twitter.com/Takuya_Gogiko)
+## [Twitch](https://www.twitch.tv/takuyagogiko)
 ## [Youtube](https://www.youtube.com/channel/UCLyw5fFzGvuNCz3xA6hHg1A)
 ## [Twitter](https://twitter.com/Takuya_Gogiko)
 <br />

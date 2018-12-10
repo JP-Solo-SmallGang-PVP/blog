@@ -18,7 +18,7 @@ EVEOnlineのPvPに興味がある方は[Discord](https://discord.gg/FcYrc47)に�
 </p>
 
 ## [zKillboard](https://zkillboard.com/character/95235307/)
-## [Twitch](https://twitter.com/Takuya_Gogiko)
+## [Twitch]https://www.twitch.tv/takuyagogiko)
 ## [Youtube](https://www.youtube.com/channel/UCLyw5fFzGvuNCz3xA6hHg1A)
 ## [Twitter](https://twitter.com/Takuya_Gogiko)
 <br />
