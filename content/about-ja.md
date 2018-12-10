@@ -21,3 +21,5 @@ EVEOnlineのPvPに興味がある方は[Discord](https://discord.gg/FcYrc47)に�
 ## [Twitch](https://twitter.com/Takuya_Gogiko)
 ## [Youtube](https://www.youtube.com/channel/UCLyw5fFzGvuNCz3xA6hHg1A)
 ## [Twitter](https://twitter.com/Takuya_Gogiko)
+<br />
+### ※このサイトは許可を貰っていますが、執筆者はTakuyaさん本人ではありません

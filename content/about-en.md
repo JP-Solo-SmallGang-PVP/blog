@@ -23,3 +23,5 @@ If you are interested, please come and visit [Discord](https://discord.gg/FcYrc4
 ## [Twitch](https://twitter.com/Takuya_Gogiko)
 ## [Youtube](https://www.youtube.com/channel/UCLyw5fFzGvuNCz3xA6hHg1A)
 ## [Twitter](https://twitter.com/Takuya_Gogiko)
+<br />
+### This site takes permission, but the author is not Takuya Gogiko himself.
