@@ -7,7 +7,7 @@ lang: en
 <img src="{static}/images/logo.jpg" width="50%" alt="logo">
 </p>
 
-This is a Japanese Solo/Small Gang group.
+We are a Japanese Solo/Small Gang group.
 
 The organizer is Takuya Gogiko.  
 
