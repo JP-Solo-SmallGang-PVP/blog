@@ -12,6 +12,8 @@ This is a Japanese Solo/Small Gang group.
 The organizer is Takuya Gogiko.  
 
 If you are interested, please come and visit [Discord](https://discord.gg/FcYrc47) :)
+
+Let's enjoy thrilling PvP together regardless of belonging or experience!
 <br /><br /><br /><br />
 
 # About Takuya Gogiko
