@@ -45,7 +45,7 @@
     <meta property="og:title" content="{{ SITENAME }}" />
     <meta property="og:description" content="{{ SITESUBTITLE|default('View the blog.') }}" />
     <meta property="og:url" content="{{ SITEURL }}" />
-    <meta name="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.jpg">
+    <meta name="og:image" content="{{ SITEURL }}/images/logo.jpg">
   {% endblock opengraph %}
 
   {% block twitter_card %}
@@ -54,7 +54,7 @@
 	<meta name="twitter:title" content="{{ SITENAME }}">
 	<meta name="twitter:description" content="{{ SITESUBTITLE|default('View the blog.') }}">
 	<meta name="twitter:url" content="{{ SITEURL }}">
-    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.jpg">
+    <meta name="twitter:image:src" content="{{ SITEURL }}/images/logo.jpg">
   {% endblock twitter_card %}
 
   <link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON }}" type="{{ FAVICON_TYPE }}" />
