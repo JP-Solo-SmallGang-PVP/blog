@@ -7,7 +7,7 @@ lang: ja
 <img src="{static}/images/logo.jpg" width="50%" alt="logo">
 </p>
 
-Solo（ソロ）やSmallGang（スモール・ギャング）と呼ばれる少人数で大規模な敵を撃破するのが大好きな人達の集まりです。主催者は日本人プレイヤーのTakuya Gogiko。
+Solo（ソロ）やSmall Gang（スモール・ギャング）と呼ばれる少人数で大規模な敵を撃破するのが大好きな人達の集まりです。主催者は日本人プレイヤーのTakuya Gogiko。
 
 EVEOnlineのPvPに興味がある方は[Discord](https://discord.gg/FcYrc47)に遊びにきてみてください。
 <br /><br /><br /><br />
