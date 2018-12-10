@@ -5,7 +5,7 @@
 
 <div class="arcticlecontentbox">
 	<div class="articlecontent">
-		<a class="articletitle" href="{{ BLOGURL }}/archives.html" >Archives for {{ SITENAME }}</a>
+		<a class="articletitle" href="{{ SITEURL }}/archives.html" >Archives for {{ SITENAME }}</a>
 		<dl>
 		{% for article in dates %}
 			<dt>{{ article.date | strftime('%d, %-m %Y') }}</dt>
