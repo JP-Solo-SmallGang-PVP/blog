@@ -42,17 +42,15 @@
     {% endfor %}
     <meta property="og:site_name" content="{{ SITENAME }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ SITENAME }}" />
-    <meta property="og:description" content="{% block og_description %}{% endblock og_description %}" />
+    <meta property="og:title" content="{% block og_title %}{% endblock og_title %}" />
     <meta property="og:url" content="{{ SITEURL }}" />
     <meta name="og:image" content="{{ SITEURL }}/images/logo.jpg">
   {% endblock opengraph %}
 
   {% block twitter_card %}
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:site" content="@{{ link|replace('http://', 'https://')|replace('https://twitter.com/', '') }}">
-	<meta name="twitter:title" content="{{ SITENAME }}">
-	<meta name="twitter:description" content="{% block twitter_description %}{% endblock twitter_description %}">
+	<meta name="twitter:site" content="@jp_small_gang">
+	<meta name="twitter:title" content="{% block twitter_title %}{% endblock twitter_title %}">
 	<meta name="twitter:url" content="{{ SITEURL }}">
 	<meta name="twitter:image:src" content="{{ SITEURL }}/images/logo.jpg">
   {% endblock twitter_card %}
