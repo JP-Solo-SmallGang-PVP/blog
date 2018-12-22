@@ -11,6 +11,7 @@ lang: en
 ## [Takuya Gogiko [FC]](https://zkillboard.com/character/95235307/)
 ## [Night Cap](https://zkillboard.com/character/94127438/)
 ## [neibis rudus](https://zkillboard.com/character/93531438/)
+## [Kentlarquis](https://zkillboard.com/character/94500364/)
 ## [Winter Lewin](https://zkillboard.com/character/95526304/)
 ## [LTLBAZAAR](https://zkillboard.com/character/91546798/)
 ## [bouninng](https://zkillboard.com/character/508340745/)
@@ -21,10 +22,10 @@ lang: en
 <br />
 
 # Kill Mails
-[https://zkillboard.com/kill/74162037/](https://zkillboard.com/kill/74162037/)
-[https://zkillboard.com/kill/74163120/](https://zkillboard.com/kill/74163120/)
-[https://zkillboard.com/kill/74163090/](https://zkillboard.com/kill/74163090/)
-[https://zkillboard.com/kill/74163107/](https://zkillboard.com/kill/74163107/)
+- [https://zkillboard.com/kill/74162037/](https://zkillboard.com/kill/74162037/)
+- [https://zkillboard.com/kill/74163120/](https://zkillboard.com/kill/74163120/)
+- [https://zkillboard.com/kill/74163090/](https://zkillboard.com/kill/74163090/)
+- [https://zkillboard.com/kill/74163107/](https://zkillboard.com/kill/74163107/)
 <br /><br />
 
 # After Action Report
