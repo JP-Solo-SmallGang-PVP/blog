@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Japanese PvPers'
+AUTHOR = 'A Japanese PvPer'
 SITENAME = 'JP Solo/Small Gang PVP'
 SITEURL = 'http://localhost:8000'
 
