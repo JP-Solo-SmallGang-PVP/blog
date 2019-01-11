@@ -1,0 +1,159 @@
+.articlecontent .right,
+.articlecontent .left {
+    font-weight: bolder;
+    background-color: white;
+    border: 2px solid #555;
+    border-radius: 10px;
+    width: calc(100% - 120px);
+    padding: 12px 10px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    position: relative;
+}
+
+.articlecontent .left {
+  margin-left: auto;
+}
+
+.articlecontent .right:before,
+.articlecontent .left:before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  width: 15px;
+  height: 15px;
+  border-bottom: 2px solid #555;
+  border-right: 2px solid #555;
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0) 50%, white 0);
+}
+
+.articlecontent .right:before {
+  right: -9px;
+  transform: rotate(-45deg) skew(15deg, 15deg);
+}
+
+.articlecontent .left:before {
+  left: -9px;
+  transform: rotate(135deg) skew(15deg, 15deg);
+}
+
+.articlecontent .right:after,
+.articlecontent .left:after {
+  content: '';
+  position: absolute;
+  top: -16px;
+  width: 75px;
+  height: 75px;
+  border: 2px solid #222;
+  border-radius: 40px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.articlecontent .right:after {
+  right: -100px;
+}
+
+.articlecontent .left:after {
+  left: -100px;
+}
+
+.articlecontent .Takuya-Gogiko:after {
+    background-image: url("http://localhost:8000/images/characters/Takuya-Gogiko_75.jpg");
+}
+
+.articlecontent .Kentlarquis:after {
+    background-image: url("http://localhost:8000/images/characters/Kentlarquis_75.jpg");
+}
+
+.articlecontent .bouninng:after {
+    background-image: url("http://localhost:8000/images/characters/bouninng_75.jpg");
+}
+
+/*
+.articlecontent .person-right,
+.articlecontent .person-left {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    min-height: 100px;
+}
+.articlecontent .person-right img,
+.articlecontent .person-left img {
+    background-color: #333;
+    border-radius: 10em;
+    width: 100px;
+    height: 100px;
+    margin-top: 2px;
+    background-size: cover;
+}
+.articlecontent .person-right img {
+    float: right;
+}
+.articlecontent .person-left img { 
+    float: left;
+}
+
+.articlecontent .person-left.Takuya-Gogiko img,
+.articlecontent .person-right.Takuya-Gogiko img {
+    background-image: url("http://localhost:8000/images/characters/Takuya Gogiko_128.jpg");
+}
+.articlecontent .person-left.Kentlarquis img,
+.articlecontent .person-right.Kentlarquis img {
+    background-image: url("http://localhost:8000/images/characters/Takuya Gogiko_128.jpg");
+}
+.articlecontent .person-left.Takuya-Gogiko img,
+.articlecontent .person-right.Takuya-Gogiko img {
+    background-image: url("http://localhost:8000/images/characters/Takuya Gogiko_128.jpg");
+}
+
+.articlecontent .person-right p,
+.articlecontent .person-left p {
+    font-size: 120%;
+    background-color: white;
+    padding: 10px;
+    position: relative;
+    border: 2px solid #555;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: calc(100% - 128px);
+    margin-top: 30px;
+}
+.articlecontent .person-left p {
+    float: right;
+}
+.person-right p:before,
+.person-right p:after,
+.person-left p:before,
+.person-left p:after{
+    top: 13px;
+}
+.person-right p:before {
+    content: '';
+    border: 10px solid transparent;
+    border-left: 15px solid #555;
+    position: absolute;
+    left: 100%;
+}
+.person-right p:after {
+    content: '';
+    border: 10px solid transparent;
+    border-left: 15px solid white;
+    position: absolute;
+    left: calc(100% - 4px);
+}
+.person-left p:before {
+    content: '';
+    border: 10px solid transparent;
+    border-right: 15px solid #555;
+    position: absolute;
+    right: 100%;
+}
+.person-left p:after {
+    content: '';
+    border: 10px solid transparent;
+    border-right: 15px solid white;
+    position: absolute;
+    right: calc(100% - 4px);
+}
+*/
