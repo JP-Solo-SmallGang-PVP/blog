@@ -16,11 +16,3 @@ lang: en
 
 # Battle Report
 [https://zkillboard.com/related/30003769/201901111400/](https://zkillboard.com/related/30003769/201901111400/)
-<br /><br />
-
-# After Action Report
-To be written
-<br />
-
-# Improvement
-To be written

@@ -45,7 +45,8 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{% block og_title %}{% endblock og_title %}" />
     <meta property="og:url" content="{{ SITEURL }}" />
-    <meta name="og:image" content="{{ SITEURL }}/images/logo.jpg">
+		<meta name="og:image" content="{{ SITEURL }}/images/logo.jpg">
+		<meta property="og:description" content="We are a Japanese Solo/Small Gang group.">
   {% endblock opengraph %}
 
   {% block twitter_card %}
@@ -54,9 +55,10 @@
 	<meta name="twitter:title" content="{% block twitter_title %}{% endblock twitter_title %}">
 	<meta name="twitter:url" content="{{ SITEURL }}">
 	<meta name="twitter:image:src" content="{{ SITEURL }}/images/logo.jpg">
+	<meta name="twitter:description" content="We are a Japanese Solo/Small Gang group.">
   {% endblock twitter_card %}
 
-  <link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON }}" type="{{ FAVICON_TYPE }}" />
+	<link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON }}" type="{{ FAVICON_TYPE }}" />
 </head>
 <body background="{{ SITEURL }}/theme/img/pattern.png">		
 	<div class="content">
@@ -83,10 +85,10 @@
 	<script>
 	  var links = document.links;
 	  for (var i = 0; i < links.length; i++) {
-		if (links[i].hostname != window.location.hostname) {
-		  links[i].target = '_blank';
+			if (links[i].hostname != window.location.hostname) {
+				links[i].target = '_blank';
+			}
 		}
-	  }
-  	</script>
+  </script>
 </body>
 </html>
