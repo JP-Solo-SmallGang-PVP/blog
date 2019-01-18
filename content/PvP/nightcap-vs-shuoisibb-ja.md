@@ -42,7 +42,7 @@ shu oisibb様へ。頂いた動画ですが、あまりにもノイズが酷す�
 <b>※そんなことは一言も言っていません</b>
 
 <br /><br /><br />
-<iframe width="780" height="438" src="https://www.youtube.com/embed/89aRNHrcLMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="780" height="438" src="https://www.youtube.com/embed/q0TCtLlFbM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## [第1回戦（勝者：shu oisibb）](https://zkillboard.com/kill/74623361/)
 ## [第2回戦（勝者：shu oisibb）](https://zkillboard.com/kill/74623510/)
 ## [第3回戦（勝者：shu oisibb）](https://zkillboard.com/kill/74623651/)
@@ -155,13 +155,13 @@ shu oisibb様へ。頂いた動画ですが、あまりにもノイズが酷す�
 <p class="right shu-oisibb">あ〜これ結構キツイかもな〜😰</p>
 <p class="right Takuya-Gogiko">わりとガッツリアーマーが</p>
 <p class="right shu-oisibb">あ、やべ！俺ミスった！😱</p>
-<p class="left Night-Cap">お？これは燃え尽きた感じの。けど、俺も燃える！</p>
+<p class="left Night-Cap">お？これは燃え尽きた感じの。けど！！！俺も燃える！！！</p>
 <p class="right Takuya-Gogiko">ギリギリだなこれ</p>
 <p class="right shu-oisibb">まじか〜〜〜😍😍😍</p>
 <p class="right Takuya-Gogiko">お〜〜〜お〜〜。すげぇ〜</p>
 <p class="right shu-oisibb">今ねSAARのAuto-ReloadをOnにしぱなっしというミスをね😱</p>
 <p class="right Takuya-Gogiko">あ〜！あるある</p>
-<p class="left Night-Cap">俺常にOnだけどね笑笑笑</p>
+<p class="left Night-Cap">俺は常にOnだけどね笑笑笑</p>
 <p class="right Takuya-Gogiko">まじかｗ</p>
 <p class="right shu-oisibb">まぁなんとか勝てた😤</p>
 <p class="left Night-Cap">うん、やっぱりArty Fitって、良いFitだねこれ。うん</p>
@@ -169,3 +169,4 @@ shu oisibb様へ。頂いた動画ですが、あまりにもノイズが酷す�
 
 <br />
 # Night Capの一連のつぶやきのまとめ
+<script src="https://s.togetter.com/static/web/js/parts.js"></script><script>tgtr.ListWidget({id:'1310227',url:'https://togetter.com/',width:'780px',height:'640px'});</script>
