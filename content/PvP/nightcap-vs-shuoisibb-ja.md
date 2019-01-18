@@ -10,7 +10,7 @@ lang: ja
 <br />
 [![nightcap-vs-shuoisibb-1]({static}/images/nightcap-vs-shuoisibb/nightcap-vs-shuoisibb-1.jpg)](http://eve-beautyhunter.seesaa.net/article/463579895.html)
 
-ガバい感じに1文にすると<b>「俺のブリーチャーはニューエデン最強だし、俺にソロで勝てるやつとかいるわけないだろ（わらわらわら）」</b>という内容である。
+ガバい感じに1文にすると<b>「俺のブリーチャーはニューエデン最強だし、俺にソロで勝てるやつとかいるわけないだろ（わらわらわら）」</b>という内容である（違う）
 
 <br />
 # Night Capの果たし状
