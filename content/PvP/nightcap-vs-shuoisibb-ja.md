@@ -132,7 +132,7 @@ shu oisibb様へ。いただいた動画ですが、あまりにもノイズが�
 <p class="right shu-oisibb">これはやばい😱</p>
 <p class="right shu-oisibb">あ。これは負けた</p>
 <p class="left Night-Cap">俺もキャパシターが……あ！！！やった勝った〜〜〜〜！！！😍😍😍😍<br />あ、ごめん母さん</p>
-<p class="left Night-Cap">「やった勝った〜！」って両手上げたら母親に顔面に当たってしまった笑笑笑</p>
+<p class="left Night-Cap">「やった勝った〜！」って両手上げたら母親の顔面に当たってしまった笑笑笑</p>
 <p class="right shu-oisibb">がははははははははははははははははは🤣<br />ないすふぁーい！</p>
 <p class="right shu-oisibb">あれか？Low SlotかRigsにスピードアップモジュール積んだ？</p>
 <p class="left Night-Cap">いや、普通にABで戦ったよ</p>
