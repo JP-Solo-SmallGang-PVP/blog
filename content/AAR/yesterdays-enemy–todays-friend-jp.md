@@ -59,11 +59,11 @@ Dorilの周辺でよく見かける[Dangerous Voltage(DV)](https://zkillboard.co
 <b style="font-size: 200%">Need bubble</b>
 <br /><br />
 
-こちらにはInterdictorがいる、つまりTemporary blue（一時的な共闘）の締結である。
+こちらにはInterdictorがいる！つまりTemporary blue（一時的な共闘）の締結である。
 
 結果的にはProvi側もDreadsを投入してきたので惨敗してしまいましたが、これが海賊流というのを味わえるRoamでとても楽しかったです。
 
-個人的にはさっきまで殺し合ってた人なのにFCが「あいつを助けろ！」って言ってたのは面白かったです。
+個人的にはさっきまで殺し合ってた人なのにFCが<b>「あいつを助けろ！」</b>って言ってたのは面白かったです。
 
 <br />
 # 今日のTakuya語録
