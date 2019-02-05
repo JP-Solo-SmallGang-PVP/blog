@@ -1,6 +1,6 @@
 Title: 昨日の敵は今日の友
 Date: 2019-2-6
-Slug: yesterdays-enemy–todays-friend
+Slug: yesterdays-enemy-todays-friend
 Authors: Bill Conquest
 lang: ja
 
@@ -63,7 +63,7 @@ Dorilの周辺でよく見かける[Dangerous Voltage(DV)](https://zkillboard.co
 
 結果的にはProvi側もDreadsを投入してきたので惨敗してしまいましたが、これが海賊流というのを味わえるRoamでとても楽しかったです。
 
-個人的にはさっきまで殺し合ってた人なのにFCが<b>「あいつを助けろ！」</b>って言ってたのは面白かったです。
+個人的にはさっきまで殺し合ってた人なのにFCが<b>「あいつを助けろ！」</b>って言ってたのが面白かったです。
 
 <br />
 # 今日のTakuya語録

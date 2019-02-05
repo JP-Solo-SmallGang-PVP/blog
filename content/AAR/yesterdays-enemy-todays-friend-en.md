@@ -1,6 +1,6 @@
 Title: Yesterday's enemies could be today's friends
 Date: 2019-2-6
-Slug: yesterdays-enemy–todays-friend
+Slug: yesterdays-enemy-todays-friend
 Authors: Bill Conquest
 lang: en
 
