@@ -53,7 +53,7 @@ Dorilの周辺でよく見かける[Dangerous Voltage(DV)](https://zkillboard.co
 <p class="left Night-Cap">一緒にProviを火の海に変えようぜ？とか言ってみるとか😉</p>
 <p class="left Takuya-Gogiko">よし、少し煽り気味に交渉してみるか😎</p>
 
-しばらくの後DVの人たちから返信の内容は
+しばらく経った後にきたDVの人たちからの返信の内容は
 
 <br />
 <b style="font-size: 200%">Need bubble</b>
