@@ -36,7 +36,7 @@ Dorilの周辺でよく見かける[Dangerous Voltage(DV)](https://zkillboard.co
 <b style="font-size: 200%">んがっ！！！</b>
 <br /><br />
 
-<b style="font-size: 120%">Proviの人たちはDVのDreadsにビビって戦わない！そしてこちらの少数なフリートにばかり粘着してくる！</b>
+<b style="font-size: 120%">Proviの人たちはDVのDreadsにビビって戦わない！そしてこちらの少人数のフリートにばかり粘着してくる！</b>
 
 <p class="left Takuya-Gogiko">（Proviのフリートが）あれだけいりゃ（DVのDreadsだって）抜けるだろ！タマなしかよ！</p>
 <p class="left Kentlarquis">タマなしかよ</p>
