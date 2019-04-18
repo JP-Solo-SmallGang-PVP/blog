@@ -27,6 +27,7 @@
 	<meta name="twitter:image:src" content="https://jp-solo-smallgang-pvp.github.io/blog/images/logo.jpg">
 	<meta name="twitter:description" content="We are a Japanese Solo/Small Gang group.">
 
+	<link href="https://jp-solo-smallgang-pvp.github.io/blog/theme/css/luminous-basic.min.css" type="text/css" rel="stylesheet" />
 	<link rel="shortcut icon" href="https://jp-solo-smallgang-pvp.github.io/blog/favicon.jpg" type="image/jpg" />
 </head>
 <body background="https://jp-solo-smallgang-pvp.github.io/blog/theme/img/pattern.png">		
@@ -40,6 +41,8 @@
 	<div class="articlecontent">
 		<a class="articletitle" href="https://jp-solo-smallgang-pvp.github.io/blog/archives.html" >Archives for JP Solo/Small Gang PVP</a>
 		<dl>
+			<dt>07, 4 2019</dt>
+			<dd><a href='roam-2019-4-7.html'>Roam - 7, April 2019</a></dd>
 			<dt>31, 3 2019</dt>
 			<dd><a href='roam-2019-3-15.html'>Roam - 15, March 2019</a></dd>
 			<dt>06, 2 2019</dt>
@@ -100,13 +103,30 @@
     	
 </div>	</div>
 
+	<script type="text/javascript" src="https://jp-solo-smallgang-pvp.github.io/blog/theme/js/luminous.min.js"></script>
 	<script>
-	  var links = document.links;
-	  for (var i = 0; i < links.length; i++) {
+		var images = document.getElementsByTagName("img");
+		for (var i = 0; i < images.length; i++) {
+			if (!images[i].parentNode || images[i].parentNode.tagName.toLowerCase() !== "p") {
+				continue;
+			}
+			if (!images[i].parentNode.parentNode || images[i].parentNode.parentNode.className.toLowerCase() !== "articlecontent") {
+				continue;
+			}
+			images[i].outerHTML = '<a href="' + images[i].src + '" class="luminous"><img src="' + images[i].src + '" alt="' + images[i].alt + '" style="max-width: 760px" /></a>';
+		}
+
+		var luminousTrigger = document.querySelectorAll('.luminous');
+		if( luminousTrigger !== null ) {
+			new LuminousGallery(luminousTrigger);
+		}
+
+		var links = document.links;
+		for (var i = 0; i < links.length; i++) {
 			if (links[i].hostname != window.location.hostname) {
 				links[i].target = '_blank';
 			}
 		}
-  </script>
+	</script>
 </body>
 </html>
